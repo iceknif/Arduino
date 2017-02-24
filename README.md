@@ -12,5 +12,5 @@ Sonia-4: Add the distance check portion on Sonia-3
 Sonia-5: Use AN method to get the value and caculate the distance directly using read value x 5mm
 
 Soina-6: Use AN method to get the value and caculate the distance using the below file to get it.
-         -1. Caculate the actual voltage
-         -2. Caculate the distance
+         + 1. Caculate the actual voltage
+         + 2. Caculate the distance
