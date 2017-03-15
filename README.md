@@ -17,3 +17,10 @@ Soina-6: Use AN method to get the value and caculate the distance using the belo
 
          1. Caculate the actual voltage
          2. Caculate the distance
+
+
+## LM35DZ sample
+
+### This is the below sketch file I wrote to use LM35
+
+Voltage read: Use A0 to read the voltage
